@@ -1,0 +1,16 @@
+*.rds
+!shinylive/webr/packages/metadata.rds
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.db
+*.csv
+*.xlsx
+*.env
+*.yml
+*.yaml
+.Rhistory
+.RData
+.Rproj.user/
+*.jks
+*.keystore
